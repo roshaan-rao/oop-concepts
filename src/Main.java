@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Encapsulation");
         account.deposit(10);
         account.withdraw(5);
-        System.out.println("\nMy amount is: "+account.getBalance());
+        System.out.println("My amount is: "+account.getBalance());
 
         // Abstraction focuses on hiding the complex implementation details and showing only the essential features of an object.
         MailServer mailServer = new MailServer();
