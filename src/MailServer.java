@@ -1,4 +1,4 @@
-public class Abstraction {
+public class MailServer {
 
     public void sendEmail() {
         connect();

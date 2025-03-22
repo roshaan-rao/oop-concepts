@@ -1,4 +1,4 @@
-public class Encapsulation {
+public class Account {
     private float balance;
 
     public void deposit(float balance) {
