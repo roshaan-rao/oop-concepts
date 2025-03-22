@@ -11,7 +11,7 @@ public class MailServer {
     }
 
     private void disconnect() {
-        System.out.println("Disconnect.");
+        System.out.println("Disconnect");
     }
 
     private void authenticate() {
